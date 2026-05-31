@@ -109,7 +109,7 @@ nohup node scripts/start.js > tvbox.log 2>&1 &
 ### 1. 准备环境
 
 - [Cloudflare 账号](https://dash.cloudflare.com/sign-up)（免费）
-- Node.js 18+
+- Node.js 18+ 这里难搞
 
 ### 2. 克隆仓库
 
